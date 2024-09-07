@@ -8,3 +8,7 @@ options.txt
 /logs
 ears-debug.log
 /crash-reports
+/xaero
+/Distant_Horizons_server_data
+servers.dat
+servers.dat_old
