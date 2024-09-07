@@ -47,7 +47,7 @@
 			toolSlotCount = 2
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 3000
+			tankCapacity = 2000
 
 		#Iron Tier Backpack Settings
 		[common.backpackSettings.ironTierBackpack]
@@ -71,7 +71,7 @@
 			toolSlotCount = 4
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 5000
+			tankCapacity = 8000
 
 		#Diamond Tier Backpack Settings
 		[common.backpackSettings.diamondTierBackpack]
@@ -83,7 +83,7 @@
 			toolSlotCount = 5
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 6000
+			tankCapacity = 16000
 
 		#Netherite Tier Backpack Settings
 		[common.backpackSettings.netheriteTierBackpack]
@@ -95,7 +95,7 @@
 			toolSlotCount = 6
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 7000
+			tankCapacity = 32000
 
 	[common.world]
 		#Enables backpacks spawning in loot chests
