@@ -1,0 +1,51 @@
+
+["Fuel Items"]
+	#Defines items that can be used as fuel
+	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
+	Boiler = [["#minecraft:planks", 10], ["minecraft:coal", 37], ["minecraft:charcoal", 37], ["#minecraft:logs_that_burn", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000]]
+	Icebox = [["minecraft:snowball", 10], ["minecraft:clay_ball", 37], ["minecraft:snow_block", 100], ["minecraft:ice", 250], ["minecraft:clay", 333], ["minecraft:powder_snow_bucket", 100], ["minecraft:packed_ice", 1000]]
+	#Negative values indicate cold fuel
+	Hearth = [["#minecraft:planks", 10], ["minecraft:coal", 37], ["minecraft:charcoal", 37], ["#minecraft:logs_that_burn", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000], ["minecraft:snowball", -10], ["minecraft:clay_ball", -37], ["minecraft:snow_block", -333], ["minecraft:ice", -250], ["minecraft:clay", -333], ["minecraft:powder_snow_bucket", -100], ["minecraft:packed_ice", -1000]]
+	#If true, potions can be used as fuel in the hearth
+	#This gives all players in range the potion effect
+	"Allow Potions in Hearth" = true
+	#Potions containing any of these effects will not be allowed in the hearth
+	#Format: ["effect_id", "effect_id", ...etc]
+	"Blacklisted Hearth Potions" = ["minecraft:instant_damage", "minecraft:poison", "minecraft:wither", "minecraft:weakness", "minecraft:mining_fatigue", "minecraft:slowness"]
+
+["Soulspring Lamp"]
+	#Defines items that the Soulspring Lamp can use as fuel
+	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
+	"Fuel Items" = [["cold_sweat:soul_sprout", 4.0, "{}"]]
+	#Defines the dimensions that the Soulspring Lamp can be used in
+	#Format: ["dimension-id-1", "dimension-id-2", ...etc]
+	"Valid Dimensions" = ["minecraft:the_nether"]
+
+[Consumables]
+	#Defines items that affect the player's temperature when consumed
+	#Format: [["item_id", amount, *nbt, *duration], ["item_id", amount, *nbt, *duration], ...etc]
+	#Negative values are cold foods, positive values are hot foods
+	#nbt: Optional. If set, the item will only affect the player's temperature if it has the specified NBT tag.
+	#duration: Optional. If set, the player's temperature will remain increased/decreased for this amount of time.
+	"Temperature-Affecting Foods" = [["cold_sweat:soul_sprout", 0.0, "{}", 1200]]
+	#Defines how much a waterskin will change the player's body temperature by when used
+	#Range: > 0
+	"Waterskin Strength" = 50
+
+[Insulation]
+	#Defines the items that can be used for insulating armor in the Sewing Table
+	#Format: [["item_id", cold, hot, "static", *nbt], ["item_id", amount, adapt-speed, "adaptive", *nbt], ...etc]
+	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
+	#
+	#Adaptive Insulation: 
+	#"amount": The amount of insulation the item provides.
+	#"adapt-speed": The speed at which the insulation adapts to the environment.
+	#*"type": Optional. Either "static" or "adaptive". Defines the insulation type. Defaults to static.
+	#*"nbt": Optional. If set, the item will only provide insulation if it has the specified NBT tag.
+	#
+	#Static Insulation: 
+	#"cold": The amount of cold insulation the item provides.
+	#"hot": The amount of heat insulation the item provides.
+	#*"type": Optional. Either "static" or "adaptive". Defines the insulation type. Defaults to static.
+	#*"nbt": Optional. If set, the item will only provide insulation if it has the specified NBT tag.
+	"Insulation Ingredients" = [["minecraft:brown_wool", 1.5, 0.0], ["chipped:cornered_blue_wool", 1.5, 0.0], ["chipped:stringed_yellow_wool", 1.5, 0.0], ["chipped:scaled_cyan_wool", 1.5, 0.0], ["chipped:tiled_cyan_wool", 1.5, 0.0], ["chipped:tripped_pink_wool", 1.5, 0.0], ["chipped:harsh_quilted_cyan_wool", 1.5, 0.0], ["chipped:knitted_yellow_wool", 1.5, 0.0], ["chipped:rectangle_light_gray_wool", 1.5, 0.0], ["chipped:bundled_white_wool", 1.5, 0.0], ["chipped:windmill_blue_wool", 1.5, 0.0], ["chipped:harsh_quilted_yellow_wool", 1.5, 0.0], ["chipped:bundled_gray_wool", 1.5, 0.0], ["chipped:crafted_green_wool", 1.5, 0.0], ["chipped:bundled_black_wool", 1.5, 0.0], ["chipped:tiled_gray_wool", 1.5, 0.0], ["chipped:wickered_pink_wool", 1.5, 0.0], ["chipped:wickered_magenta_wool", 1.5, 0.0], ["chipped:knitted_light_blue_wool", 1.5, 0.0], ["minecraft:blue_wool", 1.5, 0.0], ["minecraft:black_wool", 1.5, 0.0], ["chipped:woved_yellow_wool", 1.5, 0.0], ["minecraft:leather_leggings", 5.0, 5.0], ["chipped:patched_pink_wool", 1.5, 0.0], ["chipped:soft_red_wool", 1.5, 0.0], ["chipped:windmill_magenta_wool", 1.5, 0.0], ["chipped:blocky_green_wool", 1.5, 0.0], ["chipped:ribbled_cyan_wool", 1.5, 0.0], ["chipped:tripped_gray_wool", 1.5, 0.0], ["chipped:barky_orange_wool", 1.5, 0.0], ["chipped:cornered_red_wool", 1.5, 0.0], ["minecraft:white_wool", 1.5, 0.0], ["chipped:crafted_orange_wool", 1.5, 0.0], ["chipped:windmill_lime_wool", 1.5, 0.0], ["chipped:woved_pink_wool", 1.5, 0.0], ["chipped:barky_red_wool", 1.5, 0.0], ["chipped:stringed_gray_wool", 1.5, 0.0], ["chipped:wickered_orange_wool", 1.5, 0.0], ["chipped:barky_pink_wool", 1.5, 0.0], ["chipped:cornered_light_blue_wool", 1.5, 0.0], ["chipped:ribbled_lime_wool", 1.5, 0.0], ["chipped:ribbled_pink_wool", 1.5, 0.0], ["chipped:patched_green_wool", 1.5, 0.0], ["chipped:scaled_orange_wool", 1.5, 0.0], ["chipped:ribbled_yellow_wool", 1.5, 0.0], ["chipped:wickered_blue_wool", 1.5, 0.0], ["chipped:woved_light_gray_wool", 1.5, 0.0], ["chipped:crafted_red_wool", 1.5, 0.0], ["chipped:windmill_yellow_wool", 1.5, 0.0], ["chipped:bundled_green_wool", 1.5, 0.0], ["chipped:barky_gray_wool", 1.5, 0.0], ["chipped:ribbled_light_gray_wool", 1.5, 0.0], ["chipped:wickered_lime_wool", 1.5, 0.0], ["chipped:bundled_red_wool", 1.5, 0.0], ["chipped:wickered_black_wool", 1.5, 0.0], ["chipped:wickered_yellow_wool", 1.5, 0.0], ["chipped:blocky_light_blue_wool", 1.5, 0.0], ["chipped:ribbled_purple_wool", 1.5, 0.0], ["chipped:woved_orange_wool", 1.5, 0.0], ["chipped:bundled_lime_wool", 1.5, 0.0], ["chipped:knitted_pink_wool", 1.5, 0.0], ["chipped:cubed_purple_wool", 1.5, 0.0], ["chipped:cubed_lime_wool", 1.5, 0.0], ["chipped:soft_black_wool", 1.5, 0.0], ["chipped:ribbled_blue_wool", 1.5, 0.0], ["chipped:wickered_red_wool", 1.5, 0.0], ["chipped:bundled_light_blue_wool", 1.5, 0.0], ["chipped:stringed_orange_wool", 1.5, 0.0], ["chipped:ribbled_red_wool", 1.5, 0.0], ["chipped:ribbled_black_wool", 1.5, 0.0], ["chipped:ribbled_gray_wool", 1.5, 0.0], ["chipped:cubed_light_blue_wool", 1.5, 0.0], ["chipped:crafted_white_wool", 1.5, 0.0], ["minecraft:pink_wool", 1.5, 0.0], ["chipped:soft_purple_wool", 1.5, 0.0], ["minecraft:yellow_wool", 1.5, 0.0], ["chipped:tripped_brown_wool", 1.5, 0.0], ["chipped:scaled_brown_wool", 1.5, 0.0], ["chipped:tiled_purple_wool", 1.5, 0.0], ["cold_sweat:hoglin_hide", 0.0, 2.0], ["chipped:bundled_magenta_wool", 1.5, 0.0], ["chipped:cross_haired_gray_wool", 1.5, 0.0], ["chipped:scaled_black_wool", 1.5, 0.0], ["chipped:tripped_blue_wool", 1.5, 0.0], ["minecraft:leather_helmet", 4.0, 4.0], ["chipped:barky_cyan_wool", 1.5, 0.0], ["chipped:tripped_light_gray_wool", 1.5, 0.0], ["chipped:patched_light_blue_wool", 1.5, 0.0], ["chipped:cubed_magenta_wool", 1.5, 0.0], ["cold_sweat:fur_parka", 12.0, 0.0], ["chipped:blocky_red_wool", 1.5, 0.0], ["chipped:tripped_lime_wool", 1.5, 0.0], ["chipped:scaled_yellow_wool", 1.5, 0.0], ["chipped:patched_purple_wool", 1.5, 0.0], ["chipped:wickered_light_gray_wool", 1.5, 0.0], ["chipped:cross_haired_white_wool", 1.5, 0.0], ["chipped:cornered_orange_wool", 1.5, 0.0], ["chipped:cross_haired_light_blue_wool", 1.5, 0.0], ["chipped:patched_orange_wool", 1.5, 0.0], ["chipped:knitted_magenta_wool", 1.5, 0.0], ["chipped:blocky_cyan_wool", 1.5, 0.0], ["chipped:barky_green_wool", 1.5, 0.0], ["chipped:soft_cyan_wool", 1.5, 0.0], ["chipped:tripped_white_wool", 1.5, 0.0], ["chipped:woved_purple_wool", 1.5, 0.0], ["chipped:tripped_magenta_wool", 1.5, 0.0], ["cold_sweat:hoglin_hooves", 0.0, 8.0], ["chipped:scaled_light_gray_wool", 1.5, 0.0], ["chipped:tiled_white_wool", 1.5, 0.0], ["chipped:soft_gray_wool
