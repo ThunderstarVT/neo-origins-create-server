@@ -25,7 +25,7 @@
 		#List of items that can't be put in backpack inventory (Use registry names, for example: "minecraft:apple", "minecraft:flint")
 		blacklistedItems = []
 		#Allows putting shulker boxes and other items with inventory in backpack
-		allowShulkerBoxes = true
+		allowShulkerBoxes = false
 		#Prevents backpack disappearing in void, spawns floating backpack above minimum Y when player dies in void
 		voidProtection = true
 		#Places backpack at place where player died
@@ -47,7 +47,7 @@
 			toolSlotCount = 2
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 2000
+			tankCapacity = 3000
 
 		#Iron Tier Backpack Settings
 		[common.backpackSettings.ironTierBackpack]
@@ -71,7 +71,7 @@
 			toolSlotCount = 4
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 8000
+			tankCapacity = 5000
 
 		#Diamond Tier Backpack Settings
 		[common.backpackSettings.diamondTierBackpack]
@@ -83,7 +83,7 @@
 			toolSlotCount = 5
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 16000
+			tankCapacity = 6000
 
 		#Netherite Tier Backpack Settings
 		[common.backpackSettings.netheriteTierBackpack]
@@ -95,13 +95,13 @@
 			toolSlotCount = 6
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 32000
+			tankCapacity = 7000
 
 	[common.world]
 		#Enables backpacks spawning in loot chests
 		enableLoot = true
 		#Enables chance to spawn Zombie, Skeleton, Wither Skeleton, Piglin or Enderman with random backpack equipped
-		spawnEntitiesWithBackpack = false
+		spawnEntitiesWithBackpack = true
 		#List of overworld entity types that can spawn with equipped backpack. DO NOT ADD anything to this list, because the game will crash, remove entries if mob should not spawn with backpack
 		possibleOverworldEntityTypes = ["minecraft:zombie", "minecraft:skeleton", "minecraft:enderman"]
 		#List of nether entity types that can spawn with equipped backpack. DO NOT ADD anything to this list, because the game will crash, remove entries if mob should not spawn with backpack
@@ -119,7 +119,7 @@
 	[common.backpackAbilities]
 		enableBackpackAbilities = true
 		#Newly crafted backpacks will have ability enabled by default
-		forceAbilityEnabled = false
+		forceAbilityEnabled = true
 		#List of backpacks that are allowed to have an ability. DO NOT ADD anything to this list, because the game will crash, remove entries if backpack should not have ability
 		allowedAbilities = ["travelersbackpack:netherite", "travelersbackpack:diamond", "travelersbackpack:gold", "travelersbackpack:emerald", "travelersbackpack:iron", "travelersbackpack:lapis", "travelersbackpack:redstone", "travelersbackpack:bookshelf", "travelersbackpack:sponge", "travelersbackpack:cake", "travelersbackpack:cactus", "travelersbackpack:melon", "travelersbackpack:pumpkin", "travelersbackpack:creeper", "travelersbackpack:dragon", "travelersbackpack:enderman", "travelersbackpack:blaze", "travelersbackpack:ghast", "travelersbackpack:magma_cube", "travelersbackpack:spider", "travelersbackpack:wither", "travelersbackpack:bat", "travelersbackpack:bee", "travelersbackpack:ocelot", "travelersbackpack:cow", "travelersbackpack:chicken", "travelersbackpack:squid"]
 
