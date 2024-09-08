@@ -3,7 +3,8 @@
 		"{data:{Count:1b,id:\"numismatics:orange_card\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"pointblank:printer\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"pointblank:doom_supershotgun\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"pointblank:doom_plasmapistol\",tag:{GeckoLibID:5L,aim:0b,ammo:2147483647,ammox:{},fmid:[I;-756758649,-653707956,-1868707693,-1202976019],lid:-7686307469221622852L,mid:6627349974589064533L,seed:-4802819038395558585L},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"pointblank:doom_plasmapistol\",tag:{GeckoLibID:5L,aim:0b,ammo:2147483647,ammox:{},fmid:[I;-756758649,-653707956,-1868707693,-1202976019],lid:-7686307469221622852L,mid:6627349974589064533L,seed:-4802819038395558585L},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"simpleradio:radio\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
