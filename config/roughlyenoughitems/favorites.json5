@@ -1,18 +1,10 @@
 {
 	"favorites": [
-		"{data:{Count:1b,ForgeCaps:{\"cold_sweat:item_insulation\":{Insulation:[]}},id:\"protection_pixel:hammeras_helmet\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,ForgeCaps:{\"cold_sweat:item_insulation\":{Insulation:[]}},id:\"protection_pixel:hellsnakeas_chestplate\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,ForgeCaps:{\"cold_sweat:item_insulation\":{Insulation:[]}},id:\"protection_pixel:buoyancyas_leggings\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,ForgeCaps:{\"cold_sweat:item_insulation\":{Insulation:[]}},id:\"protection_pixel:socks_boots\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"protection_pixel:maneuveringwing\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"estrogen:estrogen_patches\",tag:{BotariumData:{StoredFluids:[{Amount:1000L,Fluid:\"estrogen:liquid_estrogen\"}]}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"create:mechanical_crafter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"dimdoors:tesselating_loom\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:loom\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:scaffolding\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,id:\"protection_pixel:armorloadplatform\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,ForgeCaps:{Parent:{Items:[],Size:9}},id:\"protection_pixel:powerengine\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
-	"displays": [
-		"{DisplayHistoryCategory:\"create:mechanical_crafting\",DisplayHistoryContains:1b,DisplayHistoryData:{JEISerializer:\"create:mechanical_crafting\",data:\"BQQAAwABAYJZAQABAflYAQABAYJZAQAAAQH5WAEAAQGCWQEAAQH5WAEAAQGCWQEAAQH5WAEAAQGCWQEAAQGDWQEAAQG4BgEKAAADAAZEYW1hZ2UAAAAAAAEBg1kBAAEBglkBAAEB+VgBAAEBg1kBAAEBzwIBAAEBg1kBAAEB+VgBAAGGTAEKAAADAAZEYW1hZ2UAAAAAAAEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\",id:\"protection_pixel:hammerloot\"},DisplayHistoryUUID:\"bece090f-7c97-49f5-b80e-3cdc8267e006\"}"
-	]
+	"displays": []
 }
