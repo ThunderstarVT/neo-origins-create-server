@@ -789,3 +789,668 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 9.0
 
+[ak101]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ak102]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ak103]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ak104]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ak105]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[ak107]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[ak108]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ak109]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ak12new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[ak15]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ak19]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ak22]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.599999904632568
+
+[ak308]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[ak47new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ak74m]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[ak74new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[akm]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[ammo10mmauto]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo300b]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo40smw]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo47333]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo602]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo76254]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo79257]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ap67]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ap67br]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[apc300]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[apc308]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[apc40]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.5
+
+[apc45]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[apc556]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[apc9]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ar10]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[ar57new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[beryl]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[bren2]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[bren2br]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[bren2r]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
+
+[famsaf]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[fbtantal]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[fnfs]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[fnscarh]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[fnscarl]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[fnscarr]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[g17]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[g18]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[g19]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[g36cnew]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[hk32]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[hk33]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[hk51]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[hk52]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[hk53]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[hkg11]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
+
+[hkg3]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[hkmp5]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[hkmp5auto10]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[hkmp5k]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[hkusp45]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[hkusp9]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[kar98k]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 25.0
+
+[m16a1new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[m16a4]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[m4new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[mosin]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 22.0
+
+[pp19b]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.400000095367432
+
+[pp19v]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[rpk]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[rpk74m]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[rpk74new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[sg542]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[sg550]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sg551]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sg552]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sg553]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sig556]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sig556br]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[sig556r]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[sigmcx]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sigmcx300]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[sigmcxr]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[sigmcxspearlt]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[sigxm7]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
+
+[sks]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[stribogap9]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.599999904632568
+
+[ump40]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[ump45new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[ump9]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.5
+
+[vz58]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.199999809265137
+
+[zm05n1]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.800000190734863
+
+[zm21]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.599999904632568
+
+[zmflg]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.199999809265137
+
+[cogrevolver]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
+[gyroshotgun]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 2.0
+
+[steamrifle]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 18.0
+
