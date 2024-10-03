@@ -37,7 +37,7 @@ maxGasEntitiesInChunk = 10
 	DroppedTorches = 0.0
 	#Rate of emissions from this source
 	#Range: 0.0 ~ 10.0
-	Campfires = 0.0
+	Campfires = 0.1
 	#Rate of emissions from this source
 	#Range: 0.0 ~ 10.0
 	BurntItems = 1.0
