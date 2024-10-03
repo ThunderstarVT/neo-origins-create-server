@@ -3,7 +3,9 @@
 		"{data:{Count:1b,id:\"protection_pixel:maneuveringwing\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"estrogen:estrogen_patches\",tag:{BotariumData:{StoredFluids:[{Amount:1000L,Fluid:\"estrogen:liquid_estrogen\"}]}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"protection_pixel:armorloadplatform\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,ForgeCaps:{Parent:{Items:[],Size:9}},id:\"protection_pixel:powerengine\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{Count:1b,ForgeCaps:{Parent:{Items:[],Size:9}},id:\"protection_pixel:powerengine\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"weather2:anemometer\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:stripped_jungle_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
