@@ -12,7 +12,7 @@ maxGasEntitiesInChunk = 10
 	#Enables/disables gas explosions caused by ignition sources
 	ignitionSources = true
 	#Enables/disables gas explosions caused by emitters (machines) when they produce pollution and it has no way to go
-	enclosedEmitters = true
+	enclosedEmitters = false
 	#Whether gas explosions set surrounding blocks on fire
 	setOnFire = true
 	#The way gas explosions affect surroundings
@@ -54,7 +54,7 @@ maxGasEntitiesInChunk = 10
 	#Enables / disables emissions from this source
 	HostileMobBurning = true
 	#Enables / disables emissions from this source
-	PlayerEating = true
+	PlayerEating = false
 	#Enables / disables emissions from this source
 	PlayerBurning = true
 	#Enables / disables emissions from this source
