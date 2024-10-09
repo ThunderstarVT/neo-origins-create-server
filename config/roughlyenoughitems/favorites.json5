@@ -1,6 +1,5 @@
 {
 	"favorites": [
-		"{data:{Count:1b,id:\"estrogen:estrogen_patches\",tag:{BotariumData:{StoredFluids:[{Amount:1000L,Fluid:\"estrogen:liquid_estrogen\"}]}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"exposure:camera\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"exposure:color_film\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{Count:1b,id:\"exposure:developed_color_film\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
