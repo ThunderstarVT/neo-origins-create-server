@@ -420,7 +420,7 @@ _version = 2
 				# AS_GRASS: all sides of dirt LOD's render using the top (green) color. 
 				# FADE_TO_DIRT: sides fade from grass to dirt. 
 				# AS_DIRT: sides render entirely as dirt.
-				grassSideRendering = "FADE_TO_DIRT"
+				grassSideRendering = "AS_GRASS"
 				#
 				# Determines how far from the camera Distant Horizons will start rendering. 
 				# Measured as a percentage of the vanilla render distance.
@@ -513,7 +513,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 64
 				#
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
@@ -686,7 +686,7 @@ _version = 2
 				# Should a noise texture be applied to LODs? 
 				# 
 				# This is done to simulate textures and make the LODs appear more detailed.
-				noiseEnabled = true
+				noiseEnabled = false
 				#
 				# How intense should the noise should be?
 				noiseIntensity = "5.0"
