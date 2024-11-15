@@ -136,7 +136,7 @@
 			"asyncSearchPartitionSize": 100,
 			"patchAsyncThreadCrash": true,
 			"tooltipSearch": "ALWAYS",
-			"tagSearch": "PREFIX",
+			"tagSearch": "ALWAYS",
 			"identifierSearch": "ALWAYS",
 			"modSearch": "PREFIX"
 		},
@@ -297,7 +297,8 @@
 					"roughlyenoughresources:loot_category",
 					"roughlyenoughresources:entity_loot_category",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"create_enchantment_industry:disenchanting"
 				],
 				"hiddenCategories": []
 			}

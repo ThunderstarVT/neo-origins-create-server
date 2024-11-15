@@ -69,7 +69,7 @@ _version = 2
 			# 
 			# Generally it is best to leave this disabled and should only be enabled 
 			# if there are lighting issues or for debugging.
-			onlyUseDhLightingEngine = false
+			onlyUseDhLightingEngine = true
 			#
 			# What algorithm should be used to compress new LOD data? 
 			# This setting will only affect new or updated LOD data, 
@@ -132,7 +132,7 @@ _version = 2
 			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
 			# 
 			# Note that if deadlock did occur restarting MC may be necessary to stop the locked threads.
-			enableLodBuilderThreadLimiting = true
+			enableLodBuilderThreadLimiting = false
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 

@@ -579,12 +579,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_arasaka_hjke11_yukimura]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 3.0
+
 [doom_50calpistol]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_arasaka_hjke11_yukimura_skippy]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
 
 [doom_50calrifle]
 #Set to `false` to remove the item from the game.
@@ -593,12 +607,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_budget_arms_slaughtomatic]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 1.0
+
 [doom_argentblastcharge]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_ca_liberty]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
 
 [doom_argentrocket]
 #Set to `false` to remove the item from the game.
@@ -607,12 +635,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_ca_liberty_dex]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
 [doom_bfg9000]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 8.0
+
+[cp2077_ca_liberty_padre]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
 
 [doom_combatshotgun]
 #Set to `false` to remove the item from the game.
@@ -621,12 +663,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 3.5
 
+[cp2077_ca_liberty_rogue]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
+
 [doom_gausscannon]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 25.0
+
+[cp2077_ca_liberty_yori]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
 
 [doom_handgun]
 #Set to `false` to remove the item from the game.
@@ -635,12 +691,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 10.0
 
+[cp2077_ca_unity]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
+
 [doom_heavycannon]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_ca_unity_angelica]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
 
 [doom_plasmacell]
 #Set to `false` to remove the item from the game.
@@ -649,12 +719,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_ca_unity_iconic]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
 [doom_plasmachaingun]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_ha_4grit]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
 
 [doom_plasmagun]
 #Set to `false` to remove the item from the game.
@@ -663,12 +747,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 8.0
 
+[cp2077_malorian_arms_3516]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 12.0
+
 [doom_plasmapistol]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_malorian_arms_overture]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
 
 [doom_rocketlauncher]
 #Set to `false` to remove the item from the game.
@@ -677,12 +775,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 7.0
 
+[cp2077_malorian_arms_overture_cassidy]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
+
 [doom_shotgun]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 3.0
+
+[cp2077_malorian_arms_overture_dante]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 16.0
 
 [doom_steelflechette]
 #Set to `false` to remove the item from the game.
@@ -691,12 +803,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_malorian_arms_overture_kerry]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 12.0
+
 [doom_supershotgun]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_militech_m10af_lexington]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
 
 [g36c_gign]
 #Set to `false` to remove the item from the game.
@@ -705,12 +831,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_militech_ar_lexington]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 0.0
+
 [hk416_cag]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_techtronika_metel]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
 
 [l119a2_uksf]
 #Set to `false` to remove the item from the game.
@@ -719,7 +859,21 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[cp2077_techtronika_metel_kurt]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
 [m4sopmodii_marsoc]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[cp2077_arasaka_hjsh18_masamune]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
@@ -733,12 +887,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 9.0
 
+[cp2077_arasaka_nowaki]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
 [mp5sd6]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 3.0
+
+[cp2077_militech_m251s_ajax]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
 
 [random_daemon]
 #Set to `false` to remove the item from the game.
@@ -747,12 +915,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.75
 
+[cp2077_militech_m251s_ajax_barghest]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
 [random_m4]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_arasaka_senkoh_lx]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
 
 [random_m82barrett]
 #Set to `false` to remove the item from the game.
@@ -761,12 +943,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 55.5
 
+[cp2077_arasaka_senkoh_lx_proto]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
+
 [random_mg42]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 8.0
+
+[cp2077_kang_tao_g58_dian]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
 
 [random_cx9]
 #Set to `false` to remove the item from the game.
@@ -775,12 +971,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 6.0
 
+[cp2077_kang_tao_g58_dian_yinglong]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.0
+
 [random_pp19]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_project_cynosure_erebus]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
 
 [random_minigun]
 #Set to `false` to remove the item from the game.
@@ -789,12 +999,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 9.0
 
+[cp2077_militech_m179_achilles]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 30.0
+
 [ak101]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 6.599999904632568
+
+[cp2077_militech_m179_achilles_xmod2]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 12.0
 
 [ak102]
 #Set to `false` to remove the item from the game.
@@ -803,12 +1027,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 6.599999904632568
 
+[cp2077_rostovic_kolac]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 30.0
+
 [ak103]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
+
+[cp2077_rostovic_kolac_mike]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 35.0
 
 [ak104]
 #Set to `false` to remove the item from the game.
@@ -817,12 +1055,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
 
+[cp2077_techtronika_spt32_grad]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 35.0
+
 [ak105]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_techtronika_spt32_grad_panam]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 40.0
 
 [ak107]
 #Set to `false` to remove the item from the game.
@@ -831,12 +1083,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 7.0
 
+[cp2077_tsunami_nekomata]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 35.0
+
 [ak108]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
+
+[cp2077_tsunami_rasetsu]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 40.0
 
 [ak109]
 #Set to `false` to remove the item from the game.
@@ -845,12 +1111,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 6.599999904632568
 
+[cp2077_budget_arms_carnage]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 3.0
+
 [ak12new]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 7.0
+
+[cp2077_budget_arms_carnage_guts]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.5
 
 [ak15]
 #Set to `false` to remove the item from the game.
@@ -859,12 +1139,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
 
+[cp2077_ca_m2067_defender]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
 [ak19]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 6.599999904632568
+
+[cp2077_ca_m2067_defender_kurt]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
 
 [ak22]
 #Set to `false` to remove the item from the game.
@@ -873,12 +1167,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 7.599999904632568
 
+[cp2077_fang]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
 [ak308]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 9.800000190734863
+
+[cp2077_katana]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
 
 [ak47new]
 #Set to `false` to remove the item from the game.
@@ -887,6 +1195,13 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
 
+[cp2077_katana_e3]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 8.0
+
 [ak74m]
 #Set to `false` to remove the item from the game.
 enabled = true
@@ -894,7 +1209,21 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 7.0
 
+[cp2077_katana_saburo]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
 [ak74new]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[cp2077_katana_wakako]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
@@ -908,12 +1237,26 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 8.199999809265137
 
+[cp2077_tomahawk]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 9.0
+
 [ammo10mmauto]
 #Set to `false` to remove the item from the game.
 enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 5.0
+
+[cp2077_tomahawk_agaou]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
 
 [ammo300b]
 #Set to `false` to remove the item from the game.
